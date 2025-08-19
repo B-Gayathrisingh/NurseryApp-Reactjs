@@ -1,0 +1,40 @@
+.first-container {
+  background-color: #d4f7d4;
+  border: 2px solid darkgreen;
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+.first-container h2 {
+  color: darkgreen;
+}
+
+.first-container p {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.dropdown-container select {
+  padding: 8px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid darkgreen;
+}
+
+.flower-list {
+  list-style-type: circle;     
+  list-style-position: inside; 
+  margin: 0 auto;              
+  padding-left: 40;            
+  width: auto;         
+  text-align: left;            
+}
+
+.flower-list li {
+  color: darkgreen;
+  font-weight: bold;
+  margin: 5px 0;
+}
+
